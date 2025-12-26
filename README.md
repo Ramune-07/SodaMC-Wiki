@@ -1,1 +1,1 @@
-# SodaMCへようこそ
+# SodaMC/Wiki
